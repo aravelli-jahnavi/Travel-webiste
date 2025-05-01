@@ -1,0 +1,238 @@
+html{
+    scroll-behavior: smooth;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.background {
+    background-image: url("mountain range 4k wallpaper.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 45%;
+    margin-right: 23px;
+    padding: 23px;
+}
+.main-heading{
+    color: white;
+    font-size: 50px;
+    margin-left: 53px;
+}
+.link{
+    text-decoration: none;
+    color: rgb(28, 56, 64);
+    margin-left: 23px;
+    margin-top: 23px;
+    font-weight: bold;
+    font-size: 17px;
+}
+.top{
+    float: right;
+    margin-right: 23px;
+}
+.second{
+    margin: 23px;
+}
+.pop-des{
+    color: black;
+    padding-left: 23px;
+    padding-bottom: 12px;
+
+}
+.carousela{
+    margin-left: 224px;
+    margin-right: 224px;
+    margin-bottom: 32px;
+    background-color: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+}
+
+
+
+.paragraph {
+    color: white;
+    font-size: 23px;
+    margin-left: 6px;
+    padding-left: 4px;
+}
+
+.card1{
+    border-radius: 13px;
+    background-repeat: no-repeat;
+    background-image: url("goa.jpg");
+    width: 175px;
+    height: 178px;
+    margin-right: 28px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+
+}
+
+.card2 {
+    border-radius: 13px;
+    background-repeat: no-repeat;
+    background-image: url("delhi.jpg");
+    width: 175px;
+    height: 178px;
+    margin-right: 28px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+
+}
+.card3{
+    border-radius: 13px;
+    background-repeat: no-repeat;
+    background-image: url("bangalore.webp");
+    width: 175px;
+    height: 178px;
+    margin-right: 28px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+}
+.card4 {
+    border-radius: 13px;
+    background-repeat: no-repeat;
+    background-image: url("Jaipur.jpeg");
+    width: 175px;
+    height: 178px;
+    margin-right: 28px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+}
+.card5 {
+    border-radius: 13px;
+    background-repeat: no-repeat;
+    background-image: url("Pattaya.webp");
+    width: 175px;
+    height: 178px;
+    margin-right: 28px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+}
+.card6 {
+    border-radius: 13px;
+    background-repeat: no-repeat;
+    background-image: url("Ooty.avif");
+    background-size: cover;
+    width: 175px;
+    height: 178px;
+    margin-right: 28px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+}
+.card7 {
+    border-radius: 13px;
+    background-repeat: no-repeat;
+    background-image: url("pondicherry.avif");
+    background-size: cover;
+    width: 175px;
+    height: 178px;
+    margin-right: 28px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+}
+.card8 {
+    border-radius: 13px;
+    background-repeat: no-repeat;
+    background-image: url("rameshwaram.avif");
+    background-size: cover;
+    width: 175px;
+    height: 178px;
+    margin-right: 28px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+}
+.card9 {
+    border-radius: 13px;
+    background-repeat: no-repeat;
+    background-image: url("alleppey.avif");
+    background-size: cover;
+    width: 175px;
+    height: 178px;
+    margin-right: 28px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+}
+.card10 {
+    border-radius: 13px;
+    background-repeat: no-repeat;
+    background-image: url("Amritsar.avif");
+    background-size: cover;
+    width: 175px;
+    height: 178px;
+    margin-right: 28px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+}
+.card11 {
+    border-radius: 13px;
+    background-repeat: no-repeat;
+    background-image: url("Lakshadweep.avif");
+    background-size: cover;
+    width: 175px;
+    height: 178px;
+    margin-right: 28px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+}
+.exp-packages{
+    padding: 26px;
+    width: 275px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 32px;
+    margin-bottom: 23px;
+}
+.exp-heading{
+    color: #69ab4f;
+    padding-left: 15px;
+}
+.exp-image{
+    width: 228px;
+    height: 125px;
+}
+.contactus{
+    background-color: rgb(185, 185, 248);
+    margin-top: 14px;
+    margin-left: 145px;
+    margin-bottom: 60px;
+    margin-right: 124px;
+    padding: 25px;
+    border-radius: 9px;
+}
+.contact{
+    color: black;
+}
+.whats-img{
+    margin-left: 4px;
+    width: 43px;
+    height: 43px;
+    margin-right: 18px;
+}
+.mail-img{
+    width: 63px;
+    height: 48px;
+    margin-right: 18px;
+}
+.ph-num{
+    margin-top: 6px;
+}
+
+
+
+
+
+
+
+.foot {
+    background-color: black;
+    padding: 40px;
+    margin-top: 75px;
+}
+
+.foot-end-para {
+    color: rgb(198, 197, 197);
+    margin-left: auto;
+    margin-right: auto;
+}

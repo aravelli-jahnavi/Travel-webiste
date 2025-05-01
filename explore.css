@@ -1,0 +1,70 @@
+.nav-items{
+    margin-left: auto;
+}
+.first-image{
+    margin: auto;
+    width: 100vw;
+    height: 90vh;
+}
+.width-50 {
+    width: 50% !important;
+}
+.gray-darker{
+    color: #151515;
+    margin-left: 45px;
+    margin-top: 70px;
+}
+.font-bold{
+    font-weight: 700;
+}
+.brand-black {
+    color: #000;
+}
+.no-margin-bottom {
+    margin-bottom: 0 !important;
+}
+.mar-x-1 {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.font-size-base {
+    font-size: 16px;
+    line-height: 1.48;
+}
+.font-size-smaller {
+    font-size: 12px;
+    line-height: 1.44;
+}
+.font-regular {
+    font-weight: 400;
+}
+.destinations{
+    margin-left: 43px;
+}
+.card{
+    border: 1px solid #E7E7E9;
+    overflow: hidden;
+    width: 300px;
+    margin-right: 23px;
+    margin-bottom: 20px;
+    border-radius: 25px !important;
+}
+.card-image {
+    width: 100%;
+    display: block;
+}
+.inside-card {
+    background-color: #ffffff;
+    padding: 20px;
+}
+.foot{
+    background-color: black;
+    padding: 40px;
+    margin-top: 75px;
+}
+
+.foot-end-para{
+    color: rgb(198, 197, 197);
+    margin-left: auto;
+    margin-right: auto;
+}
